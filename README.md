@@ -1,2 +1,7 @@
-# Assignment-2-Web-Design-Using-HTML5-and-Text-Web-Editor
-Purpose Students design and build a complete multi-page website using semantic HTML5 and a text/web editor. The emphasis is on meaningful structure, content, forms, multimedia, navigation and accessibility. Advanced CSS is deliberately deferred to Assessment 3.
+Kumul Café: Project for Web Design
+“Fresh Flavours, Local Vibes.
+I created the imaginary café website, Kumul Café, for my IS229 Web Design Assessment at the Papua New Guinea University of Technology (PNGUoT).
+The Goal of the Project
+This project aims to show how basic web design and development concepts may be applied practically. The website makes use of HTML5, CSS, semantic structure, navigation, multimedia, forms, accessibility, and basic web design principles.
+The website is designed to provide users with information about Kumul Café, including its story, menu, gallery, events, and contact and reservation information.
+This website was created for educational and academic reasons.
