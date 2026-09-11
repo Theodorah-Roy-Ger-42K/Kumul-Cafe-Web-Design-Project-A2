@@ -187,7 +187,7 @@ No external video or unsupported multimedia content has been invented for the pr
 
 The images used throughout the Kumul Café website were sourced from **Pinterest** and are included in this project for **academic and educational purposes**.
 
-The images are used as visual content for this student web design prototype and are **not claimed as original photographic work created by the student**.
+The images are used as visual content for this student web design prototype and are **not claimed as original photographic work created by the myself**.
 
 Where the original creator or source can be identified, appropriate acknowledgement should be provided.
 
@@ -329,7 +329,7 @@ GitHub Copilot assisted with tasks such as:
 
 All suggestions provided by GitHub Copilot were reviewed and tested by the student before being incorporated into the project.
 
-The student remained responsible for the final website structure, content, implementation, testing, GitHub repository, publication, and submission.
+I remained responsible for the final website structure, content, implementation, testing, GitHub repository, publication, and submission.
 
 ---
 
